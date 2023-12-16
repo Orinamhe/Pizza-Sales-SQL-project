@@ -18,6 +18,7 @@ KPIs
 - What pizzas are the most and least ordered in the restaurant.
 
 INSIGHTS
+
 The pizza size and categories provide some information on the preference of customers, with classic pizzas the most ordered. Large pizzas are the most ordered an sold with Extra large contributing a very little amount of orders/sales, and thus having this in the menu proves to provide very little value for money.
 
 Peak time of sales is between noon and 1:00pm (lunch) and then 4:00 – 7:00pm (close of work), and thus having more employees around these peak times to process orders and make pizzas can make the restaurant more efficient.
