@@ -13,9 +13,9 @@ KPIs
 4.	What is the average number of pizzas ordered
 
 
-Get the trends (hourly, daily, monthly) of important KPIs
-Information about categories and sizes of pizzas 
-What pizzas are the most and least ordered in the restaurant.
+- Get the trends (hourly, daily, monthly) of important KPIs
+- Information about categories and sizes of pizzas 
+- What pizzas are the most and least ordered in the restaurant.
 
 INSIGHTS
 The pizza size and categories provide some information on the preference of customers, with classic pizzas the most ordered. Large pizzas are the most ordered an sold with Extra large contributing a very little amount of orders/sales, and thus having this in the menu proves to provide very little value for money.
